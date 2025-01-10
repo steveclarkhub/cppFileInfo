@@ -1,7 +1,2 @@
-This code was written by Claude.ai, not me. 
+Written by Claude.ai using a prompt to convert a python script.  The code counts the number of total lines, blank lines and duplicate lines in a text file given a file and optional path. 
 
-It was an experiment to determine LOE when converting a script I did write in Python into C++.
-
-The code counts the number of total lines, blank lines and duplicate lines in a text file given a file and optional path. 
-
-The AI created this code with one attempt. 
